@@ -1,0 +1,1 @@
+D:\djangogirls\myvenv\Scripts\deactivate
